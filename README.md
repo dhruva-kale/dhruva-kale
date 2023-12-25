@@ -20,12 +20,9 @@ As an active member of SAEINDIA, I play a pivotal role in the development of the
 - Windmill Design at CAD & CART, contributing to a more efficient and compact drivetrain with an Electronics Continuously Variable Transmission.
 - Co-author of publications in IJRASET and NCNMT.
 - Notable achievements in competitions such as BAJA (Design Category 5th) and ATVC (5th in Endurance Race).
+- Achieved notable ranks in the International Mathematical Olympiad (IMO).
 
 **Current Explorations:**
 Continuing my academic journey, I am currently exploring the realms of Robotics, Mechatronics, and IoT. This exploration aims to expand my expertise in Automation, Design, and Robotics.
-
-**Accolades:**
-- Recognized in the BAJA Design Category (5th) and ATVC Endurance Race (5th).
-- Achieved notable ranks in the International Mathematical Olympiad (IMO).
 
 Feel free to connect with me for insightful discussions on engineering and technology. Let's explore the fascinating world of mechanical engineering together!
