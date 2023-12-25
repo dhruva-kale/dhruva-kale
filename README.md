@@ -1,4 +1,4 @@
-##                                      DHRUVA RAJESH KALE
+## DHRUVA RAJESH KALE
 
 ### Mechanical Engineering Undergraduate | Research Intern at DRDO | SAEINDIA Member
 
@@ -10,11 +10,11 @@ Greetings! I am Dhruva Rajesh Kale, a dedicated Mechanical Engineering student a
 - Programming languages: Python, C, HTML.
 - Platforms: Raspberry Pi, Arduino, NodeMCU.
 
-🔍**Research Internship:**
+🧪**Research Internship:**
 I presently serve as a Research Intern at the Defence Research and Development Organisation (DRDO). My work revolves around advancing Additive Manufacturing through the fabrication and characterization of continuous fiber composite laminates. This role involves precise operation and optimization of a 3-axis layup machine to enhance matrix-fiber ratios.
 
 🏎️**SAEINDIA Contributions:**
-As an active member of SAEINDIA, I play a pivotal role in the development of the BAJA All-Terrain Vehicle (ATV). Responsibilities include spearheading the integration of an Electronics Continuously Variable Transmission into the powertrain. Additionally, I mentor junior members, fostering a collaborative and knowledge-sharing environment.
+As an active member of SAEINDIA, I play a pivotal role in the development of the BAJA All-Terrain Vehicle (ATV) as a Captain and Racer. Responsibilities include spearheading the integration of an Electronics Continuously Variable Transmission into the powertrain. Additionally, I mentor junior members, fostering a collaborative and knowledge-sharing environment.
 
 🏆**Diverse Experience:**
 - Windmill Design at CAD & CART, contributing to a more efficient and compact drivetrain with an Electronics Continuously Variable Transmission.
@@ -22,7 +22,7 @@ As an active member of SAEINDIA, I play a pivotal role in the development of the
 - Notable achievements in competitions such as BAJA (Design Category 5th) and ATVC (5th in Endurance Race).
 - Achieved notable ranks in the International Mathematical Olympiad (IMO).
 
-**Current Explorations:**
+🔍**Current Explorations:**
 Continuing my academic journey, I am currently exploring the realms of Robotics, Mechatronics, and IoT. This exploration aims to expand my expertise in Automation, Design, and Robotics.
 
 Feel free to connect with me for insightful discussions on engineering and technology. Let's explore the fascinating world of mechanical engineering together!
