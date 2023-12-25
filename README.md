@@ -1,15 +1,31 @@
-👋 Hello, I'm Dhruva Rajesh Kale, an ambitious Mechanical Engineering undergraduate at Vishwakarma Institute of Technology, Pune. My academic journey is a blend of theoretical knowledge and hands-on experiences.
+## Dhruva Rajesh Kale
 
-🔧 Proficient in engineering tools such as SolidWorks, MATLAB, and Ansys. Skilled in programming languages like Python, C, and HTML. Familiar with platforms including Raspberry Pi, Arduino, and NodeMCU.
+### Mechanical Engineering Undergraduate | Research Intern at DRDO | SAEINDIA Member
 
-🛠️ Currently, I'm a Research Intern at DRDO, contributing to Additive Manufacturing advancements, particularly in fabricating and characterizing continuous fiber composite laminates.
+Greetings! I am Dhruva Rajesh Kale, a dedicated Mechanical Engineering student at Vishwakarma Institute of Technology, Pune, currently navigating the realms of academia and research. My academic pursuit has been marked by a rigorous curriculum and hands-on experiences, equipping me with a comprehensive skill set.
 
-🏎️ As an active member of SAEINDIA, I play a crucial role in developing the BAJA All-Terrain Vehicle (ATV), where my responsibilities range from design integration to mentoring junior members.
+**Academic Background:**
+- Bachelor of Technology in Mechanical Engineering (GPA: 8.44)
+- Proficient in engineering tools: SolidWorks, MATLAB, Ansys.
+- Programming languages: Python, C, HTML.
+- Platforms: Raspberry Pi, Arduino, NodeMCU.
 
-💻 My diverse experience includes Windmill Design at CAD & CART, co-authoring publications in IJRASET and NCNMT, and participating in prestigious competitions like BAJA and ATVC.
+**Research Internship:**
+I presently serve as a Research Intern at the Defence Research and Development Organisation (DRDO). My work revolves around advancing Additive Manufacturing through the fabrication and characterization of continuous fiber composite laminates. This role involves precise operation and optimization of a 3-axis layup machine to enhance matrix-fiber ratios.
 
-🏆 Accomplishments: Recognized in BAJA Design Category (5th), ATVC Endurance Race (5th), and achieving notable ranks in IMO.
+**SAEINDIA Contributions:**
+As an active member of SAEINDIA, I play a pivotal role in the development of the BAJA All-Terrain Vehicle (ATV). Responsibilities include spearheading the integration of an Electronics Continuously Variable Transmission into the powertrain. Additionally, I mentor junior members, fostering a collaborative and knowledge-sharing environment.
 
-📚 Currently exploring Robotics, Mechatronics, and IoT to expand my horizons in Automation, Design, and Robotics.
+**Diverse Experience:**
+- Windmill Design at CAD & CART, contributing to a more efficient and compact drivetrain with an Electronics Continuously Variable Transmission.
+- Co-author of publications in IJRASET and NCNMT.
+- Notable achievements in competitions such as BAJA (Design Category 5th) and ATVC (5th in Endurance Race).
 
-Feel free to connect and explore the exciting world of engineering and technology with me!
+**Current Explorations:**
+Continuing my academic journey, I am currently exploring the realms of Robotics, Mechatronics, and IoT. This exploration aims to expand my expertise in Automation, Design, and Robotics.
+
+**Accolades:**
+- Recognized in the BAJA Design Category (5th) and ATVC Endurance Race (5th).
+- Achieved notable ranks in the International Mathematical Olympiad (IMO).
+
+Feel free to connect with me for insightful discussions on engineering and technology. Let's explore the fascinating world of mechanical engineering together!
